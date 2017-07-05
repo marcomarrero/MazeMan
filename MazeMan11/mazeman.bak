@@ -1,0 +1,186 @@
+;Mazes for Mazeman. 
+;Mazeditor will overwrite the entire file.
+[MAZENAME]
+INTRO
+[COMMENTS]
+[MAZEDATA]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X X   X XX          X                X X
+X X X X XXXXXXXXXXX XXXXXX X X XXXXXXX X
+X X X X XX        X X      X X       X X
+XSX X X XX XXXXXX X X XXXXXX XXXXXXX X X
+X X X X XX X    X X X X           XX X X
+X X X X XX X XX X X X X XXXXXXXXX X   GX
+X X X X XX X XX X X X X         X X XXXX
+X   X   XX X XX X X X XXXXXXXXX X X X XX
+X XXXXX XX X XX X X           X X X    X
+X       XX X XX X XXXXXXXXXXX X X X XX X
+X XXXXXXXX X XX               X X X X  X
+X          X  XXXXXXXXXXXXXXX X   X X XX
+X XXXXXXXXXXX X               X X X X  X
+X           X X XXXXXXXXXXXXX X X X XX X
+X XXXXXXXXX X XXXX          X X X X XX X
+XXX X     X X   XX XXXXXXXX X XXX X X  X
+X X XXXXX X X X X  X X      X     X X XX
+X X X   X X X X X XX X XXXXXX XXXXXXXXXX
+X X X X X X X X    X X   X           X X
+X X X X X X X XXXX X   X XXXXXX XXXXXX X
+X X   X   X X X    X X X X    X        X
+X XXXXXXXXX X X XXXX X X X XX XXXXXXXX X
+X         X X        X X   XX          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                        
+[END]
+[MAZENAME]
+LOOP2
+[COMMENTS]
+[MAZEDATA]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X                              X   X
+X X X XXXXXXXXXXXXXXXXXXXXXX XXXXX X X X
+X X X X                    X X   X X X X
+X X X X XXXXXXXXXXXXXXXXXX X X X X X X X
+X X X X X                X X X X X X X X
+X X   X X XXXXXX X XXXXX X X X X X X X X
+X XXXXX X X      X X   X X X X X   X X X
+X   X   X X  XXXXX X X X X X X XXXXX X X
+XXX X XXX X      X X   X X X       X X X
+X   X X   X XXXX X XXXXX X XXXXXXX X X X
+X X X X XXX X  X X       X X       X X X
+XSX X X X X X  X X XXXXXXX X XXX XXX XGX
+X X X X XXX X  X X X       X X     X X X
+X   X X   X X  X X X XXXXXXX X X X X X X
+XXX X XXX X XXXX   X       X X X X X X X
+X   X   X X      XXXXXXXXX X X X X X X X
+X XXXXX X X XXXX   X     X X X X X X X X
+X X   X X X X  X X X XXX X X X X X X X X
+X X X X X X X  X X X X   X X X     X X X
+X X X X X X X  X X X X XXX X XXX XXX X X
+X X X X X X X  X X X X     X         X X
+X X X X X X XXXX X X X XXXXXXXXXXXXXXX X
+X   X   X                              X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                        
+[END]
+[MAZENAME]
+ZIG ZAG
+[COMMENTS]
+[MAZEDATA]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX XX                                 XX
+X  XX XXXXXX XXXX  XXXX             X XX
+X XXX     XX  XX  XX  XX            X XX
+X  XX    XX   XX  XX                X XX
+XX XX   XX    XX  XX XXX            X XX
+X  XX  XX     XX  XX  XX            X XX
+X XXX XXXXXX XXXX  XXXX             X XX
+X   X                               X XX
+XXX X                               X XX
+X   X         XXXXXX XXXXXXXXXXXXX  X XX
+X XXX              X X    X X       X XX
+X   X              X X    X X       X XX
+XXX X         XXXXXX XXXXXX X  XXX  X XX
+X   X         X      X    X X    X  X XX
+X XXX         X      X    X X    X  X XX
+X   X         XXXXXXXX    X XXXXXX  X XX
+XXX X                               X XX
+X   X   XXXXXXXXXXXXXXXXXXXXXXXXXXXXX XX
+X XXX                                 XX
+X   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXX                                   GX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                        
+[END]
+[MAZENAME]
+SO CLOSE
+[COMMENTS]
+[MAZEDATA]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XSXG                                   X
+X XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX X
+X     X   X   X   X   X   X   X   X    X
+XXXXX X X X X X X X X X X X X X X X XXXX
+X     X X X X X X X X X X X X X X X XXXX
+X XXXXX X X X X X X X X X X X X X X XXXX
+X       X   X   X   X   X   X   X   XXXX
+XXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X       X X  X X X X                   X
+XXXXXXXXX XX         X X  X   X  X  X  X
+X         X           XXXXXXXXXXXXXX   X
+X XXXXXXXXXX  XXX    X  X   X  X  X X  X
+X XX X X XX  XXXXX                     X
+X X X X XX  XX   XX XXX XXX XXX XXX X  X
+X XX X XX  XX     XX  XXX XXX XXX XXX  X
+X X X XX  XX   X   XX                  X
+X XX XX  XX   X X   XX  XX   XXX   XXX X
+X XXXX  XX   X   X   XX  XX XX XX XX   X
+X  XX  XX   X  X  X   XX  XXX   XXX    X
+X   XXXX   X  X X  X   XX              X
+X    XX   X  X   X  X   XXXXXXXXXXXXXXXX
+X     X  X  X  X  X  X   XXXXXXXXXXXXXXX
+X       X  X  X X  X  X               GX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                        
+[END]
+[MAZENAME]
+Showdown
+[COMMENTS]
+[MAZEDATA]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X  X                           XXXXXXXXX
+XXXX XXXXXXXXXXXXXX XXXXXXXXXX X       X
+X  X X            X X          XXXXXXXXX
+X  X X XXXXXXXXXX X X XXXXXXXX X       X
+XXXX X XXXXXXXXXX X X        X XXXXXXXXX
+X  X X X          X X        X X       X
+X  X X X   XXXXXX X XXXXXXXX X X       X
+X  X X X   X      X        X X XXXXXXXXX
+XXXX X X   X  XXXXXXXXXXXX X X X       X
+X  X X X   X       X       X X X       X
+X  X X X   XXXXXXX X XXXXXXX X X       X
+X  X   X         XGXSX       X XXXXXXXXX
+X  X X X   XXXXXXX X XXXXXXX X X       X
+X  X X X   X       X       X X X       X
+XXXX X X   X XXXXXXXXXXXXX X X X       X
+X  X X X   X       X       X X X       X
+X  X X X   XXXXXXX X XXXXXXX X X       X
+X  X X X         X X X       X XXXXXXXXX
+XXXX X XXXXXXXXX X X X XXXXXXX X       X
+X  X X XXXXXXXXX X X X         X       X
+X  X X           X X X         X       X
+XXXX X XXXXXXXXXXX X XXXXXXXXX X       X
+X  X               X           X       X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[END]
+[MAZENAME]
+Goalies
+[COMMENTS]
+[MAZEDATA]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                              GGGGGGGGX
+X XXXXXXXXXXXXXXXXXXXXXXXXXXXXXGGGGGGGGX
+X XX   X   XX   X   XXXXXXXXXX GGGGGGGGX
+X XX X X X XX X X X          X GGGGGGGGX
+X XX X X X XX X X X XXXXXXXXXX GGGGGGGGX
+X XX X X X XX X X X X          GGGGGGGGX
+X XX X X X XX X X X X XXXXXXXXXGGGGGGGGX
+X XX X X X    X X X X         XGGGGGGGGX
+X XX X X X XXXX X X XXXXXXXXX XGGGGGGGGX
+X    X   XXXXXX             X XGGGGGGGGX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX XGGGGGGGGX
+XS                            XGGGGGGGGX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX XGGGGGGGGX
+X                             XGGGGGGGGX
+X XXXXXXXXXXXXXXXXXXXXXXXXXXXXXGGGGGGGGX
+X XXXXXXXXXXXXXXXXXX          XGGGGGGGGX
+X                 XX XXXXXXXX XGGGGGGGGX
+X XXXXXXXXXXXXXXX XX XXXXXXXX XGGGGGGGGX
+X XXXXXXXXXXXXXXX XX XX       XGGGGGGGGX
+X XX           XX XX XX XXXXXXXGGGGGGGGX
+X XXXXXXXXXXXX XX    XX       XGGGGGGGGX
+X XXXXXXXXXXXX XXXXXXXXXXXXXX XGGGGGGGGX
+X                              GGGGGGGGX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[END]

@@ -1,0 +1,20 @@
+Welcome to the Mazeman on-line Help.
+
+This game was originally an "interview test". Asking for a name and keeping high scores was a requirement. 
+
+I later added support for multiple mazes, "Easy mode", and there is a hidden Editor.
+
+Controls
+  Arrow keys or Numeric Keypad   : Moves Mazeman
+  Keypad 5 or Space                       : Stops Mazeman  
+  Esc                                                  : Quit
+ 
+MazeDitor is a hidden option. Please double click "High Score Table" heading. One player can draw the maze while a second player navigates the maze.
+
+The maze is stored in the file "Mazeman.txt", which can be edited with notepad.
+  - Maze must be sized at most 40x25
+  - [S]tarting location should be marked with [S] or [B]
+  - [G]oal/[E]nd should be marked with [E], [G] or [F]
+  - Any other character represents maze walls.
+  - Spaces represents floor / passageways
+
